@@ -1,0 +1,76 @@
+body
+{
+  background-color: #5dbcd2;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.menu
+{
+  background-color: lightgray;
+  overflow: hidden;
+}
+
+.pages
+{
+  font-family: 'Ubuntu', sans-serif;
+  color: Black;
+  font-size: 36px;
+  text-decoration: none;
+  padding: 80px;
+}
+
+.pages:hover
+{
+  color: White;
+  background-color: #5dbcd2;
+}
+
+.page
+{
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #fcf7f1;
+}
+
+.name
+{
+  background-color: lightgray;
+  color: Black;
+  font-size: 36px;
+  font-family: 'Mukta', sans-serif;
+}
+
+.text
+{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+h3
+{
+  text-decoration: underline;
+}
+
+.resume
+{
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+ul
+{
+  text-align: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+footer
+{
+  padding-bottom: 30px;
+}
